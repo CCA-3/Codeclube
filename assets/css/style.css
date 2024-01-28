@@ -337,13 +337,13 @@ main .slider {
       display: block;
       padding: 10px;
       text-align: center;
-      box-shadow: 0px 0px 15px 0px #ddd; }
+      box-shadow: 0px 0px 15px 0px #316c9e; }
       .team .team-main-box .team-content-box b {
         display: block;
         position: relative;
-        font-size: 15px;
+        font-size: 13px;
         color: #316c9e; }
-      .team .team-main-box .team-content-box h3 {
+      .team .team-main-box .team-content-box body {
         font-size: 18px;
         color: #333;
         font-weight: 600;
@@ -360,7 +360,7 @@ main .slider {
         position: absolute;
         left: 0;
         right: 0;
-        top: -22px;
+        top: -29px;
         text-align: center;
         box-shadow: 0px 8px 13px 0px #ddd; }
         .team .team-main-box .team-content-box ul li {
@@ -935,11 +935,11 @@ footer {
       margin: 0px; }
     footer .footer-content ul li {
       display: inline-block;
-      height: 30px;
-      width: 30px;
+      height: 23px;
+      width: 23px;
       background: #316c9e;
       color: #fff;
-      line-height: 30px;
+      line-height: 23px;
       text-align: center;
       border-radius: 3px;
       margin: 5px 3px 0px 0px; }
