@@ -209,6 +209,7 @@ html {
   padding: 5px;
   background-color: #316c9e;
   border: none;
+  border-radius: 5px;
 }
 .bot-reg a{
   color: white;
